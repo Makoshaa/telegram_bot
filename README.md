@@ -16,4 +16,4 @@ This Telegram bot allows users to manage an electronic catalog through commands.
 
    ```bash
    git clone https://github.com/Makoshaa/telegram_bot.git
-   cd your-telegram-bot
+   cd telegram_bot
